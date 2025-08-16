@@ -44,5 +44,11 @@ https://docs.google.com/document/d/1Ow_sBu6JrMHZuM67eOl-vStYAm0f0YGLxaJ1j2WThro/
 
 🎯 Platform Overview: https://docs.google.com/presentation/d/1RDem_CwKj0oFbmanyaTi7N0BYj2alamo1BFLajJBB2I/edit?usp=sharing
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gWFjHnrdg?si=-dte33ZEswgrqt3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4gWFjHnrdg?si=MbO6mEzVqWt1BQIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ULMHFg4IW6Q?si=7wXG9WZoQZK98Brt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
