@@ -1,0 +1,27 @@
+# ToolgenX Documentation
+
+Official documentation and guides for ToolgenX platform.
+
+## 📚 Contents
+- Getting Started Guide
+- API Documentation
+- Best Practices
+- Troubleshooting
+
+## 🚀 Quick Start
+Visit [toolgenx.com](https://www.toolgenx.com) to get started with our platform.
+
+## 📖 Guides
+- [URL Shortening Guide](./url-shortening.md)
+- [Bio Page Creation](./bio-pages.md)
+- [QR Code Generation](./qr-codes.md)
+- [Analytics Dashboard](./analytics.md)
+
+## 🤝 Contributing
+We welcome contributions! Please read our contributing guidelines.
+
+## 📞 Support
+Need help? Contact us at support@toolgenx.com
+
+---
+Part of the [ToolgenX](https://www.toolgenx.com) ecosystem
