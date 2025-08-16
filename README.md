@@ -23,3 +23,26 @@ All-in-one platform for creators and marketers featuring URL shortening, bio pag
 Visit https://www.toolgenx.com directly
 ---
 *Making digital marketing accessible to everyone* ✨
+
+https://medium.com/@ismailgnydn28/the-hidden-psychology-behind-successful-short-urls-633055fecaab
+
+https://www.wikidata.org/wiki/Q135841988
+
+https://docs.google.com/document/d/1Ow_sBu6JrMHZuM67eOl-vStYAm0f0YGLxaJ1j2WThro/edit?usp=sharing
+
+🔗 **USEFUL LINKS:**
+
+🛠️ Free Tools: https://www.toolgenx.com/
+
+📊 Resources Hub: https://sites.google.com/view/toolgenx-resources
+
+🗺️ Global Services: https://www.google.com/maps/d/u/0/edit?mid=1O4XHWTxrY2z3vV2HG2BxQbG1Ua52UwY&usp=sharing
+
+📋 Documentation: https://docs.google.com/document/d/1Ow_sBu6JrMHZuM67eOl-vStYAm0f0YGLxaJ1j2WThro/edit?usp=sharing
+
+📈 Keywords Database: https://docs.google.com/spreadsheets/d/1e0efgrSVsQ9wexlbDXejQB0PYDOXONF12NOfK1rDKh0/edit?usp=sharing
+
+🎯 Platform Overview: https://docs.google.com/presentation/d/1RDem_CwKj0oFbmanyaTi7N0BYj2alamo1BFLajJBB2I/edit?usp=sharing
+
+
+
