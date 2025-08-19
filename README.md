@@ -26,7 +26,7 @@ Visit https://www.toolgenx.com directly
 
 https://medium.com/@ismailgnydn28/the-hidden-psychology-behind-successful-short-urls-633055fecaab
 
-https://www.wikidata.org/wiki/Q135841988
+[https://www.wikidata.org/wiki/Q135841988](https://www.wikidata.org/wiki/Q135910059)
 
 https://docs.google.com/document/d/1Ow_sBu6JrMHZuM67eOl-vStYAm0f0YGLxaJ1j2WThro/edit?usp=sharing
 
